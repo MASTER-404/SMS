@@ -14,4 +14,4 @@ git clone https://github.com/MASTER-404/SMS
 
 cd SMS
 
-python BOOM.py
+python run.py
